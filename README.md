@@ -1,2 +1,0 @@
-# JavaOraclePractice
-JavaOraclePractice
